@@ -27,3 +27,7 @@ checkpoints/
 Thumbs.db
 .vscode/
 .idea/
+
+# Thực hành tại lớp
+in-class
+.gitignore
